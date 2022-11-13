@@ -4,15 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Welcome to my personal blog about programming projects I am working on. I enjoy working on graphics projects with a particular interest in ray marching and ray tracing techniques. Please check out my blog posts and leave any comments you have.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+I am a software engineer at Collins Aerospace and work in the Auto-Flight Controls Department in commercial avionics. In my free time I enjoy working on personal programming projects and spending my weekend mornings watching Premier League football. My favorite team is Arsenal. Go gooners!
