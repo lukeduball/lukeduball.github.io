@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Ray Marching with Bevy"
-date:   2022-12-22 21:53:00 -0600
+date:   2022-12-22 13:53:00 -0600
 categories: Bevy Ray Marching
 ---
 # Ray Marching
