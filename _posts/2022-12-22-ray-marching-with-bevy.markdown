@@ -579,3 +579,5 @@ There are plenty of things I plan to add to this project in the future which inc
 - Movable point light source via a uniform buffer
 
 Thank you for reading. I hope you enjoyed it!
+
+{% include utterances.html %}
